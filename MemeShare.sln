@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeShare.iOS", "MemeShare.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeShare", "MemeShare\MemeShare.csproj", "{17DBF11A-0039-41B1-83BD-827ED7EB2B23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeShare.Web", "MemeShare.Web\MemeShare.Web.csproj", "{8C03B63A-5723-40DB-81F8-31624CAD313C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,5 +69,21 @@ Global
 		{17DBF11A-0039-41B1-83BD-827ED7EB2B23}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
 		{17DBF11A-0039-41B1-83BD-827ED7EB2B23}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
 		{17DBF11A-0039-41B1-83BD-827ED7EB2B23}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Release|iPhone.Build.0 = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{8C03B63A-5723-40DB-81F8-31624CAD313C}.AppStore|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
