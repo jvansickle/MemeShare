@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeShare", "MemeShare\Meme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeShare.Web", "MemeShare.Web\MemeShare.Web.csproj", "{8C03B63A-5723-40DB-81F8-31624CAD313C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemeShare.WebContracts", "MemeShare.WebContracts\MemeShare.WebContracts.csproj", "{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,5 +87,21 @@ Global
 		{8C03B63A-5723-40DB-81F8-31624CAD313C}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
 		{8C03B63A-5723-40DB-81F8-31624CAD313C}.AppStore|iPhone.ActiveCfg = Release|Any CPU
 		{8C03B63A-5723-40DB-81F8-31624CAD313C}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Release|iPhone.Build.0 = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{F10B4C0E-82FC-4210-AD7E-F4B7EFC29337}.AppStore|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

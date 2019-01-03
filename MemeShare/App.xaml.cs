@@ -1,4 +1,5 @@
 ﻿using System;
+using MemeShare.Pages;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -11,7 +12,7 @@ namespace MemeShare
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new PublicMemesPage();
         }
 
         protected override void OnStart()
